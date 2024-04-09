@@ -1,4 +1,4 @@
-hihihe
+hihihehoho
 
 //nginx with a path html 
 docker run --name nginx --hostname ng1 -p 80:80 -v /Users/HusseinNasser/javascript/javascript_playground/nginx-udemy-container/html:/usr/share/nginx/html -d nginx
